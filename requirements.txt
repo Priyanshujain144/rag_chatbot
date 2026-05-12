@@ -1,9 +1,12 @@
 streamlit
 langchain
 langchain-community
-langchain-openai
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
 faiss-cpu
 pypdf
 sentence-transformers
-openai
-tiktoken
+python-dotenv
+torch
+torchvision
